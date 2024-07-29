@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/rational_project.dir/main.cpp.o CMakeFiles/rational_project.dir/rational.cpp.o -o rational_project 
