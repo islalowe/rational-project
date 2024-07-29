@@ -1,2 +1,5 @@
 # rational-project
-Overloading operators to perform mathematical operations on rational numbers
+Overview
+This project implements a Rational class for representing and manipulating rational numbers. The class supports basic arithmetic operations, comparisons, and conversions between rational numbers and their string or double representations.
+
+
